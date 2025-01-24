@@ -8,7 +8,7 @@ We highly encourage extending the agent's functionality through new onchain inte
 You can add any functionality made possible by the 0xGasless SDK to AgentKit. Any smart contract can be interacted with using the `invoke_contract` method and by passing the contract's ABI, address, method of choice, and arguments. Additionally, any function that can be written in Python or TypeScript can be made a command for an agent.
 
 ### Add existing Langchain tools
-You can easily extend your agent's capabilities by incorporating additional Langchain tools. See [Integrating LangChain Tools](`/Integrate-Langchain-Tools`).
+You can easily extend your agent's capabilities by incorporating additional Langchain tools. See Integrating LangChain Tools.
 
 ### Add Custom functionality (using AI or manually)
 To make the process as simple as possible, AgentKit supports adding custom 
