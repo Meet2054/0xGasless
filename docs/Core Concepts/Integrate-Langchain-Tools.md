@@ -92,4 +92,4 @@ def initialize_agent():
 
 Now your agent is equipped with the ability to generate images using Dall-E alongside its existing CDP capabilities. You can test it by asking the agent to generate images through natural language requests.
 
-For more information on available tools and integration options, visit the [LangChain documentation](https://python.langchain.com/docs/how_to/#tools).
+For more information on available tools and integration options, visit the LangChain documentation
