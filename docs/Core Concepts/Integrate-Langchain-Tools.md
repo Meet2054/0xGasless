@@ -6,7 +6,7 @@ sidebar_position: 3
 LangChain has revolutionized the way developers interact with language models and build powerful AI applications. One of its most compelling features is the extensive ecosystem of tools and integrations that allow developers to quickly and easily extend their agents' capabilities.
 
 ## The Power of LangChain Tools
-LangChain's true strength lies in its [vast array of community-supported tools and integrations](https://python.langchain.com/docs/integrations/tools/). These tools enable developers to:
+LangChain's true strength lies in its vast array of community-supported tools and integrations. These tools enable developers to:
 
 - **Rapidly expand agent capabilities**: Integrate with various APIs, databases, and services without writing extensive custom code
 - **Leverage specialized functionalities**: Access domain-specific tools for tasks like image generation, social media posting and consumption, internet search, data analysis, or blockchain interactions

@@ -139,7 +139,9 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    onBrokenLinks: 'ignore',
   } satisfies Preset.ThemeConfig,
+
 };
 
 export default config;
