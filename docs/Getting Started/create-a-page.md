@@ -134,7 +134,7 @@ tools = 0xGasless_toolkit.get_tools()
 # Adding Agent Functionality
 Extend your agent with chat capabilities. To add more functionality, see the **Add Agent Capabilities** guide.
 
-```
+```python
 # Create the agent
 agent_executor = create_react_agent(
     llm,
